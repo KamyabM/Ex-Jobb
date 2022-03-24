@@ -1,0 +1,8 @@
+Model Information:
+* title:	IKEA - Kullaberg Chair
+* source:	https://sketchfab.com/3d-models/ikea-kullaberg-chair-a03ef5dcfddd49e48eec183fb7d7d258
+* author:	Lucas Blanco (https://sketchfab.com/LucasBlanco)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest
